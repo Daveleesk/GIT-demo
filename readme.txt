@@ -44,7 +44,7 @@ git diff <file>
 
 For upload local repository to remote repository in GitHub:
 
-at working directory
+at working directory (1st setup)
 git remote add origin https://github.com/Daveleesk/GIT-demo.git
 git branch -M main
-git push -u origin main
+git push -u origin main  (for subsequent changes)
