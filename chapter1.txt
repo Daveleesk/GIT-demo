@@ -1,5 +1,8 @@
 git init
 ls -a
 git status
-git add chapter1.txt
+git add <file>
 
+add line 1
+add line 2
+add line 3
