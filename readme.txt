@@ -55,7 +55,7 @@ To ignore file:
 1. create file .gitignore
 2. add file name in .gitignore
 
-git clone <url>
+git clone <url>  (clone a repository to local directory)
 
 git branch <name of branch>
 
@@ -67,3 +67,8 @@ use git add and git commit to commit changes in the branch
 
 for merging, must go to the main branch first then
 git merge <name of branch>
+
+git fork  -- copy remote repository to remote repository and then own it
+
+after updating such new remote repository, can use git pull to request for merging
+

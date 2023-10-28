@@ -1,8 +1,10 @@
 git init
-git status --previous line ls -a for testing git branch; 
-git add <file>
+ls -a
+git add <file> 
 
-add line 1
+add line for testing git branch
+
+add line 1 -- for testing git branch 
 add line 2
 add line 3
 add line for testing git branch
