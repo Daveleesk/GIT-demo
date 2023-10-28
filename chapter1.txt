@@ -1,8 +1,9 @@
 git init
 ls -a
-git status
-git add <file>
+git add <file>  -- git status deleted
 
-add line 1
+add line for testing git branch
+
+add line 1 -- for testing git branch 
 add line 2
 add line 3
