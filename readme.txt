@@ -48,3 +48,22 @@ at working directory (1st setup)
 git remote add origin https://github.com/Daveleesk/GIT-demo.git
 git branch -M main
 git push -u origin main  (for subsequent changes)
+
+git rm --cached -r .   : to remove files from staging -r:recursive
+
+To ignore file:
+1. create file .gitignore
+2. add file name in .gitignore
+
+git clone <url>
+
+git branch <name of branch>
+
+use git branch <enter> to check which the current branch is
+
+git checkout <name of branch> to switch branch
+
+use git add and git commit to commit changes in the branch
+
+for merging, must go to the main branch first then
+git merge <name of branch>
